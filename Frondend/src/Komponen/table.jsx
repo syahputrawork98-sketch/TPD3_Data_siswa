@@ -30,7 +30,7 @@ useEffect(() => {
       <div>
             <h2> List data</h2>
             <p>ini adalah data list data yang telah anda masukan</p>
-            <table className="table">
+            <table>
                 <thead>
                     <tr>
                         <th scope="col">Kode</th>
